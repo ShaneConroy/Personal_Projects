@@ -1,2 +1,2 @@
-﻿using var game = new OpenWound.Game1();
+﻿using var game = new OpenWound.OpenWound();
 game.Run();

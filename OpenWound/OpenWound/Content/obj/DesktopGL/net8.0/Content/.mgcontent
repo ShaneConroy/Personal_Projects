@@ -4,9 +4,17 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/El Presidente/Desktop/Personal Projects/OpenWound/OpenWound/Content/tempKnight.png</File>
+    <File>C:/Users/El Presidente/Desktop/Personal Projects/Personal_Projects/OpenWound/OpenWound/Content/cinemaOverworld.png</File>
+    <File>C:/Users/El Presidente/Desktop/Personal Projects/Personal_Projects/OpenWound/OpenWound/Content/mallOverworld.png</File>
+    <File>C:/Users/El Presidente/Desktop/Personal Projects/Personal_Projects/OpenWound/OpenWound/Content/startButton.png</File>
+    <File>C:/Users/El Presidente/Desktop/Personal Projects/Personal_Projects/OpenWound/OpenWound/Content/tempKnight.png</File>
+    <File>C:/Users/El Presidente/Desktop/Personal Projects/Personal_Projects/OpenWound/OpenWound/Content/tempMainScreen.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
   </DestFiles>
 </SourceFileCollection>

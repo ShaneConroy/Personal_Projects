@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OpenWound")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+add1e5b5c6895b2b28ca2f13570c793e034101b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("OpenWound")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OpenWound")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

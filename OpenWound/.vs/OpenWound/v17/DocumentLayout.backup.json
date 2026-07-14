@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\El Presidente\\Desktop\\Personal Projects\\OpenWound\\OpenWound\\",
+  "WorkspaceRootPath": "C:\\Users\\El Presidente\\Desktop\\Personal Projects\\Personal_Projects\\OpenWound\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{02498277-9010-4BCC-BE62-F08D7E92C1E8}|OpenWound\\OpenWound.csproj|c:\\users\\el presidente\\desktop\\personal projects\\openwound\\openwound\\openwound\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02498277-9010-4BCC-BE62-F08D7E92C1E8}|OpenWound\\OpenWound.csproj|solutionrelative:openwound\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{02498277-9010-4BCC-BE62-F08D7E92C1E8}|OpenWound\\OpenWound.csproj|c:\\users\\el presidente\\desktop\\personal projects\\personal_projects\\openwound\\openwound\\openwound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02498277-9010-4BCC-BE62-F08D7E92C1E8}|OpenWound\\OpenWound.csproj|solutionrelative:openwound\\openwound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02498277-9010-4BCC-BE62-F08D7E92C1E8}|OpenWound\\OpenWound.csproj|c:\\users\\el presidente\\desktop\\personal projects\\personal_projects\\openwound\\openwound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02498277-9010-4BCC-BE62-F08D7E92C1E8}|OpenWound\\OpenWound.csproj|solutionrelative:openwound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El Presidente\\Desktop\\Personal Projects\\Personal_Projects\\OpenWound\\OpenWound\\Program.cs",
+              "RelativeDocumentMoniker": "OpenWound\\Program.cs",
+              "ToolTip": "C:\\Users\\El Presidente\\Desktop\\Personal Projects\\Personal_Projects\\OpenWound\\OpenWound\\Program.cs",
+              "RelativeToolTip": "OpenWound\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T18:04:33.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Game1.cs",
-              "DocumentMoniker": "C:\\Users\\El Presidente\\Desktop\\Personal Projects\\OpenWound\\OpenWound\\OpenWound\\Game1.cs",
-              "RelativeDocumentMoniker": "OpenWound\\Game1.cs",
-              "ToolTip": "C:\\Users\\El Presidente\\Desktop\\Personal Projects\\OpenWound\\OpenWound\\OpenWound\\Game1.cs",
-              "RelativeToolTip": "OpenWound\\Game1.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwAgAAAAwAAAAAAAAAA==",
+              "Title": "OpenWound.cs",
+              "DocumentMoniker": "C:\\Users\\El Presidente\\Desktop\\Personal Projects\\Personal_Projects\\OpenWound\\OpenWound\\OpenWound.cs",
+              "RelativeDocumentMoniker": "OpenWound\\OpenWound.cs",
+              "ToolTip": "C:\\Users\\El Presidente\\Desktop\\Personal Projects\\Personal_Projects\\OpenWound\\OpenWound\\OpenWound.cs",
+              "RelativeToolTip": "OpenWound\\OpenWound.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAIwI4AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-09T03:13:03.412Z",
               "EditorCaption": ""
